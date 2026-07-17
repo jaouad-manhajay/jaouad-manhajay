@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jaouad Manhajay
+# Jaouad Manhajay
 
 ## 💻 Junior System & Network Administrator
 
