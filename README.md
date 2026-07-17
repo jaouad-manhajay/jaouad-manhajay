@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaouad Manhajay
 
-<!--
-**jaouad-manhajay/jaouad-manhajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Junior System & Network Administrator
 
-Here are some ideas to get you started:
+I am a passionate IT Infrastructure student specializing in System Administration, Networking, and Cybersecurity. I enjoy building enterprise lab environments and documenting real-world IT projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+### Operating Systems
+- Windows Server 2019/2022
+- Windows 10/11
+- Ubuntu Server
+- Linux
+
+### Networking
+- Cisco IOS
+- VLAN
+- Inter-VLAN Routing
+- OSPF
+- ACL
+- NAT
+- DHCP
+- DNS
+- TCP/IP
+- SSH
+
+### System Administration
+- Active Directory
+- Group Policy (GPO)
+- DNS Server
+- DHCP Server
+- WDS
+- MDT
+
+### Virtualization
+- VMware Workstation
+- VirtualBox
+
+### Monitoring
+- Zabbix
+- SNMP
+
+---
+
+## 📂 Current Projects
+
+- Windows Server Active Directory Lab
+- DNS Server Lab
+- DHCP Server Lab
+- Group Policy Management
+- Cisco Enterprise Networking
+- Zabbix Monitoring
+- VMware Infrastructure
+
+---
+
+## 🎯 Current Goal
+
+Building a professional IT Infrastructure Portfolio and continuously improving my System, Network, and Cybersecurity skills.
+
+---
+
+## 📫 Contact
+
+- 📍 Rabat, Morocco
+- 💼 LinkedIn: https://www.linkedin.com/in/jaouad-manhajay-032503379
